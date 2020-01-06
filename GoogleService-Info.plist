@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1075444702585-r61heb559ssgivfg5c6indraa5np7miq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1075444702585-r61heb559ssgivfg5c6indraa5np7miq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcjIMw8i7Cg8vk86jR6JpKMreBnvvznFs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075444702585</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jagan.chatap</string>
+	<key>PROJECT_ID</key>
+	<string>chatap-3285f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatap-3285f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075444702585:ios:c085719626845e6e15a3a8</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatap-3285f.firebaseio.com</string>
+</dict>
+</plist>
